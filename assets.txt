@@ -1,0 +1,6 @@
+Your Website Project/
+│
+├── index.html
+└── assets/
+    ├── charlie-parker-photo.jpg
+    └── white-jacket-portrait.jpg
